@@ -1,2 +1,2 @@
 # ShootTheMarwan
-Shoot games on the head of Marwan
+Shooting Game: Shoot the head of Marwan
